@@ -7,8 +7,7 @@
 - 💬 Ask me about **react**  
 - 📫 How to reach me **lichengyu2005119@gmail.com**
 
-
-![Top Langs](http://miohacker.xyz/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akiyama-sama&layout=compact)
 
 My blog: https://akiyama-sama.github.io/Akiyama-blog/
 
