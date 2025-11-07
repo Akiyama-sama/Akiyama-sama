@@ -9,6 +9,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akiyama-sama&layout=compact)
 
-My blog: https://akiyama-sama.github.io/Akiyama-blog/
+My blog: http://miohacker.xyz/
 
 
